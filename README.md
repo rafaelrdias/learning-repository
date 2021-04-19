@@ -5,4 +5,9 @@ Projects to learning about how using Python with AWS
 
 This project from A Cloud Guru and also requires Python 3 and requests package.
 
-`python3 find_meteors.py`
+First, install pipenv. Then:
+
+```
+pipenv install
+pipenv run "python3 find_meteors.py"
+```
